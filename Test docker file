@@ -1,0 +1,2 @@
+docker build -t wisecow-app .
+docker run -p 8080:8080 wisecow-app
